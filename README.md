@@ -2,23 +2,25 @@
 
 **ABSTRACT:**
 
-Nowadays Health-care Environment has developed science and knowledge based on 
-Wireless-Sensing node Technology oriented. Patients are facing a problematic 
-situation of unforeseen demise due to the specific reason of heart problems and attack 
-which is because of nonexistence of good medical maintenance to patients at the 
-needed time. This is for specially monitoring the old age patients and informing 
-doctors and loved ones. So, we are proposing an innovative project to dodge such 
-sudden death rates by using Patient Health Monitoring that uses sensor technology and 
-uses internet to communicate to the loved ones in case of problems. This system uses 
-**Temperature and heartbeat sensor** for tracking patient’s health. Both the sensors are 
-connected to the **Arduino-uno**. To track the patient's health, the micro-controller is in turn 
-interfaced to an LCD display and wi-fi connection to send the data to the web-server 
-(wireless sensing node). In case of any abrupt changes in patient **heart-rate or body 
-temperature alert is sent about the patient using IoT**. This system also shows patients 
-temperature and heartbeat tracked live data with timestamps over the Internetwork. 
-Thus, Patient health monitoring system based on IoT uses the internet to effectively 
-monitor patient health and helps the user monitor their loved one’s drome work and 
-saves lives.
+In today’s world, major problems related to healthcare and medicine are due to the lack of 
+proper medication and proper monitoring in the required time. There are lots of electronic based technologies and IoT based devices through which we can monitor the health of patient 
+over the internet. The experts in India took advantage of these smart devices and technology to 
+monitor the health condition of the patient. In this paper we introduce the electronic based 
+technologies and which is able to measure the patient’s different physiological parameters like 
+the body temperature of the patient, heartbeat, and oxygen level in the blood. Here in this work 
+efforts were made to exploit the potentials of a cloud based mobile app Blynk which is 
+specifically designed for the IoT based applications. For this purpose, a Node MCU based IoT 
+system was designed and developed for real-time supervision of the measured outputs from 
+multiple sensors. As it was a wireless multiple sensor network, it utilizes the Wi-Fi local 
+hotspot network as per the ssid and password credentials entered by the user in the firmware 
+itself. The carefully designed hardware and the real-time supervision of measured sensor 
+outputs as well as the relay on/off status observed over the Blynk App along with the real-time 
+controlling of relays validated the work. This paper talks about health monitoring system which 
+allow patients to be monitored without having a need to visit the doctor which can be 
+implemented with market sensors. The module gives the necessary opportunity for all day 
+service for the patients which Can be recorded by the doctor and can receive a notification in 
+any case of emergency these platforms form a great use when a patient is under frequent 
+checkup or under home care for a long period of time.
 
 **Introduction:**
 
