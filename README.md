@@ -3,7 +3,7 @@
 **ABSTRACT:**
 
 In today’s world, major problems related to healthcare and medicine are due to the lack of 
-proper medication and proper monitoring in the required time. There are lots of electronic based technologies and IoT based devices through which we can monitor the health of patient 
+proper medication and proper monitoring in the required time. There are lots of electronic based technologies and IoT based devices through which we can monitor the health of patient 
 over the internet. The experts in India took advantage of these smart devices and technology to 
 monitor the health condition of the patient. In this paper we introduce the electronic based 
 technologies and which is able to measure the patient’s different physiological parameters like 
@@ -328,9 +328,5 @@ module, Pulse Oximeter, Blood Pressure and Temperature Sensor.” 2019 Internati
 Conference on Vision Towards Emerging Trends in Communication and Networking
 (ViTECoN). IEEE, 2019.**
 
-**❖ Mishra, Vaibhav, Durgesh Kumar Mishra and Ass. Prof. Ankit Trivedi. “Health
-Monitoring System using IoT using Arduino Uno Microcontroller.” Health 6.08 (2019).**
 
-
-
-By **Arpon Kumar Chowdhury**, KGEC_CSE'25
+By **Geethalakshmi M N**, KGEC_CSE'25
