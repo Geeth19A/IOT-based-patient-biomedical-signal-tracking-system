@@ -302,6 +302,7 @@ Thus the RX pin of the ESP8266 is connected to pin 10 of Arduino through the res
 
 
 ![Final Project Image](https://github.com/HackwithArpon/Iot-Based_Patient-Health-Monitoring-System-/assets/116937463/f162c68a-6d3b-4c76-8c35-0778372fda1c)
+"C:\Users\personal\OneDrive\Pictures\20220711_102527.jpg"
 
 **Setting the ThingSpeak**
 
@@ -329,4 +330,4 @@ Conference on Vision Towards Emerging Trends in Communication and Networking
 (ViTECoN). IEEE, 2019.**
 
 
-By **Geethalakshmi M N**, KGEC_CSE'25
+By **Geethalakshmi M N**
